@@ -1,0 +1,12 @@
+{
+  "name": "study-poi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "poi"
+  },
+  "dependencies": {
+    "poi": "^9.5.0"
+  }
+}
